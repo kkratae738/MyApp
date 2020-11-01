@@ -1,0 +1,12 @@
+{
+  "name": "noblesse",
+  "displayName": "noblesse",
+  "expo": {
+    "name": "noblesse",
+    "slug": "noblesse",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
